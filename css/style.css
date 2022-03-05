@@ -6,7 +6,10 @@
 	box-sizing: border-box;
 }
 body{
-	background-image: url("images/background.jpg")
+	background-image: url("../images/background.jpg");
+	position: relative;
+	
+	background-repeat: no-repeat;
 }
 .container{
 	
@@ -16,3 +19,4 @@ body{
 	border: 1px solid grey;
 	box-sizing: border-box;
 }
+
